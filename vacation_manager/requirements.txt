@@ -9,7 +9,7 @@ Flask-WTF
 Flask-Login
 Flask-Admin
 Flask-Marshmallow
-pylint==2.2.2
+pylint==4.0.9
 pycodestyle==2.5.0
 pytest-flask
 requests
